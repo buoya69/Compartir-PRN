@@ -43,6 +43,7 @@
 3. Connectar impressora desde wondows
 
 Afegim impressora
+
 ![image](https://github.com/user-attachments/assets/ef2f0ab3-451c-4f08-adb9-505c9bff953e)
 ![image](https://github.com/user-attachments/assets/97f32c07-f436-49ba-9b89-b6e3c40cc989)
 
