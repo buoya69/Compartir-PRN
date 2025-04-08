@@ -10,10 +10,14 @@
 ![image](https://github.com/user-attachments/assets/f43df543-1947-4c5a-be4e-a4eb6fb5a07a)
 ![image](https://github.com/user-attachments/assets/60adb400-972e-48da-af63-c8bbe86b7b12)
 
-3. Nom de l'impressora
+2. ENtrem a les propietats de l'impressora i fem que aquesta es pugui compartir
+   ![image](https://github.com/user-attachments/assets/2d7c42bc-a2b7-4756-8eae-e951fbb148ec)
+
+
+4. Nom de l'impressora
 ![image](https://github.com/user-attachments/assets/d1f46ae6-2f4f-495a-b490-0739a2795205)
 
-4. Connectar l'impressora desde Linux
+5. Connectar l'impressora desde Linux
 ![image](https://github.com/user-attachments/assets/1262b0b9-c6d3-4ac9-ad73-f7c00c35c9cc)
 ![image](https://github.com/user-attachments/assets/46540a17-2a20-4284-9bef-364159b6164f)
 ![image](https://github.com/user-attachments/assets/47067ae7-bfd8-4cb3-81f5-14addcf85aeb)
