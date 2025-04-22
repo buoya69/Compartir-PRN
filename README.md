@@ -1,6 +1,6 @@
 # Compartir-PRN
 
-## LINUX A WOINDOWS
+## LINUX A WINDOWS
 
 1. Creació de l'impressora
    
